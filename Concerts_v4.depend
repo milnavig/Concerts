@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1514299188 source:c:\users\alexa\desktop\concerts_v4\concerts_v4\main.cpp
+	<iostream>
+	<vector>
+	"Concert.h"
+	"Festival.h"
+	"Theater.h"
+	"Administrator.h"
+	"User.h"
+	"DB.h"
+
+1512069771 c:\users\alexa\desktop\concerts_v4\concerts_v4\price.h
+
+1512146897 source:c:\users\alexa\desktop\concerts_v4\concerts_v4\price.cpp
+	"Price.h"
+
+1514224911 source:c:\users\alexa\desktop\concerts_v4\concerts_v4\hall.cpp
+	"Hall.h"
+
+1514203358 c:\users\alexa\desktop\concerts_v4\concerts_v4\hall.h
+	<vector>
+	<iostream>
+	<iomanip>
+	"Price.h"
+
+1513363045 c:\users\alexa\desktop\concerts_v4\concerts_v4\time.h
+	<string>
+	<iostream>
+	<stdio.h>
+
+1514290278 source:c:\users\alexa\desktop\concerts_v4\concerts_v4\time.cpp
+	"Time.h"
+
+1514290414 source:c:\users\alexa\desktop\concerts_v4\concerts_v4\place.cpp
+	"Place.h"
+
+1513363639 c:\users\alexa\desktop\concerts_v4\concerts_v4\place.h
+	<iostream>
+
+1514289425 source:c:\users\alexa\desktop\concerts_v4\concerts_v4\event.cpp
+	"Event.h"
+
+1512930388 c:\users\alexa\desktop\concerts_v4\concerts_v4\event.h
+	<iostream>
+	<string>
+	"Time.h"
+	"Place.h"
+	"Hall.h"
+
+1514226978 source:c:\users\alexa\desktop\concerts_v4\concerts_v4\concert.cpp
+	"Concert.h"
+
+1514209683 c:\users\alexa\desktop\concerts_v4\concerts_v4\concert.h
+	<string>
+	<iostream>
+	"Event.h"
+
+1514227033 source:c:\users\alexa\desktop\concerts_v4\concerts_v4\festival.cpp
+	"Festival.h"
+
+1513605585 c:\users\alexa\desktop\concerts_v4\concerts_v4\festival.h
+	<string>
+	<iostream>
+	"Event.h"
+
+1514289200 source:c:\users\alexa\desktop\concerts_v4\concerts_v4\theater.cpp
+	"Theater.h"
+
+1513605670 c:\users\alexa\desktop\concerts_v4\concerts_v4\theater.h
+	<string>
+	<iostream>
+	"Event.h"
+
+1514298951 source:c:\users\alexa\desktop\concerts_v4\concerts_v4\administrator.cpp
+	"Administrator.h"
+
+1512150556 c:\users\alexa\desktop\concerts_v4\concerts_v4\administrator.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"Concert.h"
+	"Festival.h"
+	"Theater.h"
+
+1512930325 c:\users\alexa\desktop\concerts_v4\concerts_v4\user.h
+	<iostream>
+	<vector>
+	<iomanip>
+	"Concert.h"
+	"Festival.h"
+	"Theater.h"
+
+1514298900 source:c:\users\alexa\desktop\concerts_v4\concerts_v4\user.cpp
+	"User.h"
+
+1514315963 source:c:\users\alexa\desktop\concerts_v4\concerts_v4\db.cpp
+	"DB.h"
+
+1513605706 c:\users\alexa\desktop\concerts_v4\concerts_v4\db.h
+	<iostream>
+	<vector>
+	"Concert.h"
+	"Festival.h"
+	"Theater.h"
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Concerts_v4" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Concerts_v4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="C:/Users/alexa/Desktop/Concerts_v4/Concerts_v4/" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Concerts_v4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="C:/Users/alexa/Desktop/Concerts_v4/Concerts_v4/" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Administrator.cpp" />
+		<Unit filename="Administrator.h" />
+		<Unit filename="Concert.cpp" />
+		<Unit filename="Concert.h" />
+		<Unit filename="DB.cpp" />
+		<Unit filename="DB.h" />
+		<Unit filename="Event.cpp" />
+		<Unit filename="Event.h" />
+		<Unit filename="Festival.cpp" />
+		<Unit filename="Festival.h" />
+		<Unit filename="Hall.cpp" />
+		<Unit filename="Hall.h" />
+		<Unit filename="Place.cpp" />
+		<Unit filename="Place.h" />
+		<Unit filename="Price.cpp" />
+		<Unit filename="Price.h" />
+		<Unit filename="Theater.cpp" />
+		<Unit filename="Theater.h" />
+		<Unit filename="Time.cpp" />
+		<Unit filename="Time.h" />
+		<Unit filename="User.cpp" />
+		<Unit filename="User.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
